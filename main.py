@@ -2,8 +2,7 @@ import streamlit as st
 import openai
 import os
 
- # Set your OpenAI API key
- openai.api_key = "api"  # 
+
 
  # Streamlit UI
  st.title("AI-Powered Fashion Design Generator")
