@@ -1,11 +1,11 @@
 import streamlit as st
 import openai
 import os
-
-
-
- # Streamlit UI
+# Streamlit UI
  st.title("AI-Powered Fashion Design Generator")
+
+
+ 
  st.write("Enter a description of your fashion design, and the AI will generate an image.")
  
  # User input
